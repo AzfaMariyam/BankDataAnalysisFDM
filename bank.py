@@ -342,7 +342,7 @@ def main():
             return data
 
         data = load_data()
-        st.write(data)
+        #st.write(data)
 
         st.sidebar.subheader("Bank Markerting Data Analysis")
 
